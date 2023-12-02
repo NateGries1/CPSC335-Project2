@@ -11,3 +11,7 @@
 ```bash
 chmod +x run.sh
 ./run.sh
+
+clang++ dp.cpp -o dp
+./dp < test.txt
+python3 exhaustive.py < test.txt
