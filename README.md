@@ -7,11 +7,13 @@
 - Patrick Valera (patrickv@csu.fullerton.edu)
 
 
-**To run:**
+**To execute both DP and exhaustive:**
 ```bash
 chmod +x run.sh
 ./run.sh
-
+```
+**Alternatively, to individually execute:**
+```bash
 clang++ dp.cpp -o dp
 ./dp < test.txt
 python3 exhaustive.py < test.txt
