@@ -1,11 +1,10 @@
-# CPSC335-Project2
-Exhaustive Optimized Search vs Dynamic Programming
+# CPSC335 Project 2
+## Exhaustive Optimized Search vs Dynamic Programming
 
-##Contributors
-Nathanel Gries nathanelgries@csu.fullerton.edu
--
--
+**Contributors:**
+- Nathanel Gries (nathanelgries@csu.fullerton.edu)
 
-##To run
+**To run:**
+```bash
 chmod +x run.sh
 ./run.sh
