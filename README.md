@@ -3,6 +3,9 @@
 
 **Contributors:**
 - Nathanel Gries (nathanelgries@csu.fullerton.edu)
+- Nevan Nguyen (Nevanem@csu.fullerton.edu)
+- Patrick Valera (patrickv@csu.fullerton.edu)
+
 
 **To run:**
 ```bash
